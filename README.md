@@ -2,6 +2,12 @@
 
 ![image](https://github.com/ahsann455/AI-Fake-News-Detector/assets/97152316/67c7656f-e59a-498a-8781-05d9ca8747d5)
 
+## How to use it:
+-- Clone the repository. <br>
+-- Launch terminal in the designated directory. <br>
+-- Execute pip install -r requirements.txt. <br>
+-- Run app.py and navigate to http://127.0.0.1:5000/. <br>
+
 ##  Methodology:
 Several strategies can be employed, including supervised learning, unsupervised learning, or deep learning. For counterfeit news identification, the supervised learning approach is frequently used. In this approach, the model is trained using labeled data, where the true classification of each article (real or fake) is known. The aim is to create a model that can reliably classify new, unseen articles as genuine or fake.
 
@@ -29,11 +35,5 @@ Subsequent to model construction, it's imperative to evaluate its performance. F
 ## Predictions:
 Once the model has been evaluated, it can be employed to predict the category of new, unseen articles.
 
-## Project Startup:
--- Clone the repository. <br>
--- Launch the command prompt in the designated directory. <br>
--- Execute pip install -r requirements.txt. <br>
--- Run Fake_News_Detector.py and navigate to http://127.0.0.1:5000/. <br>
 
-## Legal Disclaimer:
-Predictions made by the model may occasionally be imprecise, and the repository's owner does not guarantee their accuracy, particularly when applied to the most recent news developments.
+
