@@ -1,3 +1,5 @@
+# AI Fake News Detector (Experimental) (!!! Trained on very limited dataset !!!)
+
 ![image](https://github.com/ahsann455/AI-Fake-News-Detector/assets/97152316/67c7656f-e59a-498a-8781-05d9ca8747d5)
 
 ##  Methodology:
@@ -28,11 +30,10 @@ Subsequent to model construction, it's imperative to evaluate its performance. F
 Once the model has been evaluated, it can be employed to predict the category of new, unseen articles.
 
 ## Project Startup:
--- Clone the repository.
--- Launch the command prompt in the designated directory.
--- Execute pip install -r requirements.txt.
-
--- Run Fake_News_Detector.py and navigate to http://127.0.0.1:5000/.
+-- Clone the repository. <br>
+-- Launch the command prompt in the designated directory. <br>
+-- Execute pip install -r requirements.txt. <br>
+-- Run Fake_News_Detector.py and navigate to http://127.0.0.1:5000/. <br>
 
 ## Legal Disclaimer:
 Predictions made by the model may occasionally be imprecise, and the repository's owner does not guarantee their accuracy, particularly when applied to the most recent news developments.
